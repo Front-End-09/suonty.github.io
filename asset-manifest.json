@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.635e9704.css",
-    "main.js": "/static/js/main.1dd1889b.js",
-    "static/media/logo.webp": "/static/media/logo.7bbe544f913cf2d3b7d5.webp",
-    "index.html": "/index.html",
-    "main.635e9704.css.map": "/static/css/main.635e9704.css.map",
-    "main.1dd1889b.js.map": "/static/js/main.1dd1889b.js.map"
+    "main.css": "/TiiTuy2/suonty.github.io/static/css/main.635e9704.css",
+    "main.js": "/TiiTuy2/suonty.github.io/static/js/main.99d02305.js",
+    "static/media/logo.webp": "/TiiTuy2/suonty.github.io/static/media/logo.7bbe544f913cf2d3b7d5.webp",
+    "index.html": "/TiiTuy2/suonty.github.io/index.html",
+    "main.635e9704.css.map": "/TiiTuy2/suonty.github.io/static/css/main.635e9704.css.map",
+    "main.99d02305.js.map": "/TiiTuy2/suonty.github.io/static/js/main.99d02305.js.map"
   },
   "entrypoints": [
     "static/css/main.635e9704.css",
-    "static/js/main.1dd1889b.js"
+    "static/js/main.99d02305.js"
   ]
 }
